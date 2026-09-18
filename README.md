@@ -14,5 +14,5 @@ N/A
 
 | Student Name   | CCID      |
 | -------------- | --------- |
-| `Illia Kurtin` | `student` |
+| `Illia Kurtin` | `kurtin` |
 | `<Add more>`   | `<CCID>`  |
