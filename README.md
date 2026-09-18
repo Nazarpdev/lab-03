@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Nazar`
+- **Full Name:** `Nazar Popov`
 - **CCID:** `npopov`
 
 ## References and Resources
